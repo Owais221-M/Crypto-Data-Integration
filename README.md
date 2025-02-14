@@ -75,7 +75,7 @@ This project integrates multiple technologies to receive, process, and store cry
 This project retrieves trade data from an existing project, which is uploaded on GitHub. The data is sourced from a **MySQL database** containing trade information, including user transactions, cryptocurrency pairs, amounts, and prices.
 
 **GitHub Repository for Database Source:**  
-[Link to Your Previous GitHub Project](https://github.com/yourusername/previous-project)
+https://github.com/Owais221-M/crypto-transaction-web
 
 ---
 
