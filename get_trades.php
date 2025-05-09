@@ -1,7 +1,7 @@
 <?php
 header("Content-Type: application/json");
 
-$mysqli = new mysqli("localhost", "root", "Ansari_221", "crypto_transaction");
+$mysqli = new mysqli("localhost", "root", "password", "crypto_transaction");
 
 if ($mysqli->connect_error) {
    
