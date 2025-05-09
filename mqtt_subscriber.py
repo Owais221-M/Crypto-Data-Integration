@@ -11,7 +11,7 @@ try:
     mysql_conn = pymysql.connect(
         host="localhost",
         user="root",
-        password="Ansari_221",
+        password="password",
         database="crypto_transaction", 
         port=3308,
     )
